@@ -7,10 +7,11 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
+ //Type: product
 {
   "sections": {
     "main": {
-      "type": "product",
+      "type": "metaobject-slider",
       "settings": {}
     }
   },
