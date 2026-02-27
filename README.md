@@ -125,7 +125,7 @@ Associar entradas ao produto
 Selecionar produto na Section via Editor de Tema
 
 ### Link do Pull request
-
+https://github.com/LaisOli22/shakers-semana-3-dados-avancados/pull/1
 
 ### Link do Vídeo
 
